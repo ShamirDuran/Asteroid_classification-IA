@@ -17,7 +17,7 @@ Una de las muchas funciones de la NASA es el descubrimiento y estudio de cuerpos
 
 ## Recursos
 
-* **Dataset:** 4687 registros de los asteroides que la NASA ha identificado hasta el momento.
+* **Dataset:** 4687 registros de asteroides que la NASA ha identificado.
 * **Modelos:** GaussianNB, RFC, DTC, SVC y DNN.
 
 
