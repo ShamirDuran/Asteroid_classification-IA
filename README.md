@@ -2,6 +2,9 @@
 
 # Clasificación de asteroides de acuerdo a su nivel de peligrosidad
 
+## Introducción
+
+Una de las muchas funciones de la NASA es el descubrimiento y estudio de cuerpos celestes, entre estos se encuentran los asteroides; Los asteroides son planetas menores que orbitan principalmente el sistema solar, teniendo en cuenta los  hechos históricos, algunos pueden ser peligrosos. Es por esto, que el estudio de dichos cuerpos es fundamental, la clasificación oportuna de estos puede ayudarnos a tomar decisiones antes que sea demasiado tarde.
 
 
 ## Autores:
